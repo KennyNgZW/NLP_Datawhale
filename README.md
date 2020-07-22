@@ -8,3 +8,8 @@ records of NLP learning process from Datawhale
 ![image](https://github.com/KennyNgZW/NLP_Datawhale/blob/master/dataform_text_classification.png)
 
 赛题目的是希望能了解需要分析的内容中数字之间的关系，可以直接提取他们的关系而不需要其他的特征构造的方式或者简单的统计方式（分组之后进行sum, mean, max, nunique之类）。
+
+## Task 2 EDA
+本节通过对文本内容的频数及标签的分布来初步了解目标文本的信息：
+* 文本内容：文本长度不均，且长度的较为离散；经过匿名化后，也较难看出其内容的相关性和规律；
+* 标签：分布不均，集中在部分的分类，对训练后的模型的准度带来影响。
