@@ -13,3 +13,8 @@ records of NLP learning process from Datawhale
 本节通过对文本内容的频数及标签的分布来初步了解目标文本的信息：
 * 文本内容：文本长度不均，且长度的较为离散；经过匿名化后，也较难看出其内容的相关性和规律；
 * 标签：分布不均，集中在部分的分类，对训练后的模型的准度带来影响。
+
+## Task 3 Feature Engineering
+对于不定的
+
+## unfinished
