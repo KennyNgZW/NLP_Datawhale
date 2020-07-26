@@ -15,6 +15,5 @@ records of NLP learning process from Datawhale
 * 标签：分布不均，集中在部分的分类，对训练后的模型的准度带来影响。
 
 ## Task 3 Feature Engineering
-对于不定的
+对于不定的长度和不能直接用于模型学习预测的文本数据，首先要做的就是先变成能识别的数字类型数据（integer, float）也就包含以下的方法：
 
-## unfinished
