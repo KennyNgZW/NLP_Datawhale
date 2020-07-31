@@ -31,3 +31,5 @@ records of NLP learning process from Datawhale
 ## Task 4 FastText
 通过简单的神经网络，对长度不定的文本（已经转化为数字类型）进行修剪（统一长度）和降维（高维度映射到低纬度的连接层）。
 
+## Task 5 TextCNN
+将CNN的思维用于文本分类。
